@@ -1,7 +1,5 @@
-[![Andretex's Profile](https://github-readme-stats.vercel.app/api?username=AndretexOfficial&theme=tokyonight)](https://github.com/AndretexOfficial/AndretexOfficial/) 
-[![Andretex's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndretexOfficial&theme=tokyonight)](https://github.com/AndretexOfficial/AndretexOfficial/)
+# Andretex's Profile
 
-<br></br>
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -13,6 +11,18 @@
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <p align="center">
-    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img alt"VisualStudioCode" src"https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+## Portfolio
+### Projects:
+- **Project 1**: Description of your project.
+- **Project 2**: Description of your project.
+- **Project 3**: Description of your project.
+
+Feel free to add more projects as needed!
+
+## Contact
+You can reach me on [GitHub](https://github.com/AndretexOfficial) or through other social links.
+
