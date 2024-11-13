@@ -33,7 +33,7 @@
   - **GitHub Organization**: [SkyNest Studios GitHub](https://github.com/SkyNest-Studios)
 
 - **PokeCube**: 
-  - **Role**: Junior Developer (JRDev)
+  - **Role**: Developer
   - **Description**: A modded Minecraft server featuring Pixelmon, enhancing the gaming experience with Pokémon-themed gameplay.
   - **Discord Invite**: [Join PokeCube](https://discord.pokecube.it)
 
